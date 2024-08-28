@@ -1,1 +1,1 @@
-emqx/emqx:5.7.2
+emqx/emqx:5.7.12
