@@ -1,1 +1,1 @@
-tdengine/tdengine:latest
+bestoray/pgyvpn:latest
