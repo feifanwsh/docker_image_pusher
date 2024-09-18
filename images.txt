@@ -1,1 +1,1 @@
-kapacitorio/kapacitor:latest
+kapacitor:latest
